@@ -33,8 +33,6 @@ fun main(args: Array<String>) {
 
         if (height < average && age > 13) {
             averageShort++
-            println(averageShort)
-            println(student[0])
         }
     }
 
